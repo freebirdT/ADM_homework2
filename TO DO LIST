@@ -1,4 +1,7 @@
-1.	[RQ1] A marketing funnel describes your customer’s journey with your e-commerce. It may involve different stages, beginning when someone learns about your business, when he/she visits your website for the first time, to the purchasing stage, marketing funnels map routes to conversion and beyond. Suppose your funnel involves just three simple steps: 1) view, 2) cart, 3) purchase. Which is the rate of complete funnels (DONE - Timea)?
+1.	[RQ1] A marketing funnel describes your customer’s journey with your e-commerce. It may involve different stages, beginning when someone learns about your business, 
+when he/she visits your website for the first time, to the purchasing stage, marketing funnels map routes to conversion and beyond. 
+Suppose your funnel involves just three simple steps: 1) view, 2) cart, 3) purchase. 
+Which is the rate of complete funnels? (DONE - Timea)
 o	What’s the operation users repeat more on average within a session? Produce a plot that shows the average number of times users perform each operation (view/removefromchart etc etc). (DONE - Tansel)
 o	How many times, on average, a user views a product before adding it to the cart? (DONE - Tansel)
 o	What’s the probability that products added once to the cart are effectively bought? (DONE - Tansel)
@@ -13,8 +16,10 @@ o	What are the 10 most sold products per category? (DONE - Tansel)
 o	Write a function that asks the user a category in input and returns a plot indicating the average price of the products sold by the brand. (DONE - Tansel)
 o	Find, for each category, the brand with the highest average price. Return all the results in ascending order by price. (DONE - Tansel)
 
-4.	[RQ4] How much does each brand earn per month? Write a function that given the name of a brand in input returns, for each month, its profit. Is the average price of products of different brands significantly different?
-o	Using the function you just created, find the top 3 brands that have suffered the biggest losses in earnings between one month and the next, specifing bothe the loss percentage and the 2 months (e.g., brand_1 lost 20% between march and april). (TO REVIEW) (TO DO)) TIMEA
+4.	[RQ4] How much does each brand earn per month? Write a function that given the name of a brand in input returns, for each month, its profit. Is the average price of products 
+of different brands significantly different?
+o	Using the function you just created, find the top 3 brands that have suffered the biggest losses in earnings between one month and the next, specifing bothe the loss 
+percentage and the 2 months (e.g., brand_1 lost 20% between march and april). (DONE - Timea)
 
 5.	[RQ5] In what part of the day is your store most visited? Knowing which days of the week or even which hours of the day shoppers are likely to visit your online store and make a purchase may help you improve your strategies. Create a plot that for each day of the week show the hourly average of visitors your store has. (TO DO) ANDREA
 
