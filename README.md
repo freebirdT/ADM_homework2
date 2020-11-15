@@ -13,4 +13,4 @@ The dataset which has E-commerce subject is used to answer some of the questions
 
  
 ***Content of the repository:***
-- main.ipynb contains the descriptive analysis of the dataset Octber and November 2019 and the answers to the research questions
+- main.ipynb contains the descriptive analysis of the dataset October and November 2019 and the answers to the research questions
